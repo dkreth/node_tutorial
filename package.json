@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dkreth/node_tutorial#readme",
   "dependencies": {
     "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
   }
 }
